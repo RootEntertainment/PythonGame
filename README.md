@@ -4,6 +4,8 @@ PythonGame(Idle Only)
 # List：
 ## 1 Calculator
   一个垃圾计算器，有太多bug，但我不打算完善，非科学计算器
+  ![Caculator](https://raw.githubusercontent.com/RootEntertainment/PythonGame/master/%E6%8D%95%E8%8E%B7.PNG)
 ## 2 Pong Game
   1：1模仿Atari Pong 非常完善，几乎没有bug！！！（非常自豪）
   须知在code开头
+  ![Pong](https://raw.githubusercontent.com/RootEntertainment/PythonGame/master/%E6%8D%95%E8%8E%B72.PNG)
